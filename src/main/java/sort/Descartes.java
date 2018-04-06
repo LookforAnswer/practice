@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * 循环 和 递归两种方式实现未知维度集合的笛卡尔积
+ * 循环 和 递归 两种方式实现未知维度集合的笛卡尔积
  */
 public class Descartes {
 

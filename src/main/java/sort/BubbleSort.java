@@ -62,8 +62,13 @@ public class BubbleSort {
                 }
             }
 
+
+            if(!isExchange){
+                break;
+            }
             for (int j = 0 ; j < a.length ; j++)
                 System.out.print(a[j] + ",");
+
 
 
             System.out.println(isExchange);
